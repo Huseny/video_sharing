@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883613682630",
+    "project_id": "vidshare-71e04",
+    "storage_bucket": "vidshare-71e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883613682630:android:cb698c8ddd3522b1ad00c7",
+        "android_client_info": {
+          "package_name": "com.example.videoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjbqE8WjbEBS4I76SGRRw1NrBTtRzuwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
